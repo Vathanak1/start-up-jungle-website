@@ -1,0 +1,26 @@
+$light-blue: #3399ff;
+$white-bg:#CFD8DC;
+
+.navbar{
+  padding: 1px;
+}
+.navbar-bg-dark{
+  background-color: #2d2d2e ;
+  transition:500ms ease;
+  .scrolled{
+    background: #3399ff;
+  }
+  .navbar-brand {
+  margin: 5px 0px;
+  font-size: 30px !important;
+  }
+}
+.button{
+  background: #fff0;
+}
+.navbar-default{
+  transition:500ms ease;
+  .scrolled{
+    background: $light-blue;
+  }
+}

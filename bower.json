@@ -1,0 +1,21 @@
+{
+  "name": "start-up-jungle-website",
+  "description": "",
+  "main": "",
+  "authors": [
+    "vathanak1 <ticnick92@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}

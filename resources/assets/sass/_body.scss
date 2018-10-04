@@ -1,0 +1,88 @@
+//footer
+.container-fluid3{
+  padding: 30px;
+  background-color: #ccc;  
+  margin-top: 50px;
+  margin-left: 110px;
+  margin-right: 110px;
+  margin-bottom: 20px;
+}
+.py-5 {
+  background-color: #2d2d2e;
+  margin-top: 50px;
+  .text-padding-1{
+    color: #ffffff;
+  }
+}
+//calendar
+.container-fluid{
+  .btn{
+    margin-top: 20px;
+    background: #2d2d2e;
+  }
+  margin-top: 100px;
+}
+//careers
+.container-fluid1{
+  .row{
+    .col-md-12{
+      .img-size{
+        width: 100%;
+        margin-top: 50px;
+        height: 80%;
+      }
+    }  
+  }
+  .row1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .row2{
+    .img-size1{
+      width: 33%;
+    }
+  }
+}
+.centered {
+  color: #ffffff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+//about
+.container-fluid2{
+  margin-top: 100px;
+  .row{
+    margin-top: 50px;
+    .col-sm-3{
+      .img-size{
+        width: 70%;
+        margin-left: 50px;
+      }
+    }
+  }
+  .row1{
+    margin-left: 50%;
+  }
+}
+//Event
+.container{
+  .row{
+    margin-top: 20px;
+    .col-sm-3{
+      .img-size{
+        width: 80%;
+      }
+    }
+  }
+  margin-top: 100px;
+}
+//form
+.hcolor{
+  color: #ffffff;
+}
+
+
